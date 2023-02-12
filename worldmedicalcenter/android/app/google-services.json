@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "755513145400",
+    "project_id": "worldmedicalcenter-3f7c1",
+    "storage_bucket": "worldmedicalcenter-3f7c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755513145400:android:f076fe8d7d0b4402704ecd",
+        "android_client_info": {
+          "package_name": "com.example.worldmedicalcenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755513145400-heu2alsii2ob1n3ka48jl2p90t6pbrnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpZ1Zknqsr7VvM0q3LO8_bo7BNokjIgEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755513145400-4t4qhtmiue2j8542os4ic78co87jqk2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
